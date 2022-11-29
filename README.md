@@ -2,7 +2,7 @@
 個人で開発をしているchakkunです。
 制作物-> 
 - [ホームページ](https://chakkun1121.github.io)
-- [和訳表示サイト]
+- [和訳表示サイト](https://chakkun1121.github.io/view-english)
 <!--
 **chakkun1121/chakkun1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
